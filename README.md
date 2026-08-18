@@ -26,14 +26,6 @@ I am a Computer Science student and developer passionate about building clean, f
 
 ---
 
-### 🎨 Beyond Coding
-When I'm not writing code or designing interfaces, you can find me:
-* **At the Piano:** Practicing classical repertoire, especially challenging works by Chopin and Liszt.
-* **At the Gym:** Keeping active, weightlifting, and staying on top of my fitness goals.
-* **Language Learning:** Exploring new languages and cultures during my exchange semesters in South Korea!
-
----
-
 ### 📫 Connect with Me
 * 💬 LinkedIn: Fernando Addittiya
 
